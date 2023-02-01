@@ -1,3 +1,3 @@
 
-FROM jvndansi/webapp
+FROM Jvndansi/website
 ADD . /var/www/html
