@@ -1,0 +1,4 @@
+
+FROM jorda/webapp
+ADD . /var/www/html
+
